@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lightpink
+}
+
+.Pesquisa{
+    display: flex;
+    justify-content: center;
+    padding: 6em;
+    margin: 10em;
+    border: solid 1px;
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+
+}
+.campo{
+    margin-bottom: 1em;
+}
+button{
+    height: 1.5em;
+    margin: 1em;
+}
